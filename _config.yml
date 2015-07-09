@@ -1,13 +1,9 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+title:       "@lpand's blog"
+email:       ""
+author:      Luca Pandini
+description: ""
 
-# Google analytics
-google_analytics:
 
 # Optional features
 animated:           false
@@ -19,16 +15,9 @@ show_post_footers:  false
 disqus_shortname:
 
 # Social icons
-show_social_icons: false
-github_username:
-stackoverflow_id:
+show_social_icons: true
+github_username: lpand
 twitter_username:
-google_plus_id:
-linkedin_username:
-angellist_username:
-bitcoin_url:
-paypal_url:
-flattr_button:
 
 # Post sharing icons
 show_sharing_icons: false
